@@ -1,3 +1,1 @@
 # CVV
-print("hovno"
-
